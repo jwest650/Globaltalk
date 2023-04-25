@@ -6,6 +6,7 @@ const Statistics = () => {
           <main className="flex flex-wrap items-center p-7 items-center justify-center">
                <div className="relative  w-[100%] md:w-[30%]  h-[400px]">
                     <Image
+                         alt="reading"
                          src={"/assests/secImage.png"}
                          fill
                          objectFit="contain"

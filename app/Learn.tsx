@@ -6,6 +6,7 @@ const Learn = () => {
           <main className="flex items-center p-7 flex-wrap justify-center">
                <div className="relative w-[100%] md:w-[50%]  h-[400px]">
                     <Image
+                         alt="reading"
                          src={"/assests/thirdImage.png"}
                          fill
                          objectFit="contain"
@@ -21,6 +22,7 @@ const Learn = () => {
                     <aside className="flex items-center space-x-4 pt-5">
                          <div className="w-32 h-20 bg-[#F2D4DC] relative rounded">
                               <Image
+                                   alt="reading"
                                    src={"/assests/meg1-removebg-preview.png"}
                                    width={70}
                                    height={20}
@@ -40,6 +42,7 @@ const Learn = () => {
                          </div>
                          <div className="w-32 h-20 bg-[#C3DCE3] relative rounded">
                               <Image
+                                   alt="reading"
                                    src={
                                         "/assests/background-red-retro-model-tennis-removebg-preview.png"
                                    }

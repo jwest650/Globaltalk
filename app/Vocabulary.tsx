@@ -18,6 +18,7 @@ const Vocabulary = () => {
                </div>
                <div className="relative  w-[100%] md:w-[50%]  h-[400px]">
                     <Image
+                         alt="reading"
                          src={"/assests/lastImage.png"}
                          fill
                          objectFit="contain"
