@@ -52,6 +52,7 @@ const HomePage = () => {
 
                <div className="relative w-[100%] md:w-[35%]  h-[400px]">
                     <Image
+                         alt="reading"
                          src={"/assests/mainImage.png"}
                          fill
                          objectFit="contain"
